@@ -55,11 +55,11 @@
 
 
 #8.WAP to ask the user to enter names of their 3 favorite movies & store them in a list.
-movielist = []
-for i in range(3):
-    list = input('enter a movie name:')
-    movielist.append(list)   
-print(f'your favourite movies are: {movielist}')
+# movielist = []
+# for i in range(3):
+#     list = input('enter a movie name:')
+#     movielist.append(list)   
+# print(f'your favourite movies are: {movielist}')
 
 
 # 9.WAP to check if a list contains a palindrome of elements.
