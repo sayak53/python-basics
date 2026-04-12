@@ -17,3 +17,7 @@ const Location = () => {
     </div>
   );
 };
+
+const MathTask = () => {
+  return <h1>2 + 3 = {2 + 3}</h1>;
+};
