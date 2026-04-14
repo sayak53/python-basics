@@ -78,12 +78,12 @@
 
 #10.WAP to count the number of students with the “A” grade in the following tuple.
 # Store the above values in a list & sort them from “A” to “D”.[”C”,“D”,“A”,“A”,“B”,“B”,
-grades = ["C", "D", "A", "A", "B", "B"]
+# grades = ["C", "D", "A", "A", "B", "B"]
 
-# Count A grades
-count_A = grades.count("A")
-print("Number of students with A grade:", count_A)
+# # Count A grades
+# count_A = grades.count("A")
+# print("Number of students with A grade:", count_A)
 
-# Sort grades
-grades.sort()
-print("Sorted grades:", grades)
+# # Sort grades
+# grades.sort()
+# print("Sorted grades:", grades)
