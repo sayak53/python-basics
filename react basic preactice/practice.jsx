@@ -19,5 +19,5 @@ const Location = () => {
 };
 
 const MathTask = () => {
-  return <h1>2 + 3 = {2 + 3}</h1>;
+  return <h1>15 + 12 = {15 + 12}</h1>;
 };
