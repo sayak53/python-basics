@@ -86,4 +86,4 @@
 
 # # Sort grades
 # grades.sort()
-# print("Sorted grades:", grades);
+# print("Sorted grades:", grades)
