@@ -18,6 +18,6 @@ const Location = () => {
   );
 };
 
-const MathTask = () => {
+const Addition = () => {
   return <h1>10 + 5 = {10 + 5}</h1>;
 };
