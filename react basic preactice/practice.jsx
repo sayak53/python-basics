@@ -9,7 +9,7 @@ const Name = () => {
 };
 
 const Location = () => {
-  const city = "Kolkata";
+  const city = "Mu";
 
   return (
     <div>
