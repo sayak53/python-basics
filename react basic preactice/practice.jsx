@@ -30,4 +30,8 @@ const Multiply = () => {
   return <h1>10 * 5 = {10 * 5}</h1>;
 };
 
-const 
+import React from "react";
+
+export const practice = () => {
+  return <div>practice</div>;
+};
