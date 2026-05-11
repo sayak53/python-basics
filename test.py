@@ -63,17 +63,17 @@
 
 
 # 9.WAP to check if a list contains a palindrome of elements.
-# user_input = input('enter the list items separated with space:')
-# if " " not in user_input:
-#     print('please separate them with space(eg.1 2 1 3 2)')
-# else:
-#     original_list = user_input.split()   
-# copied_list = original_list.copy()
-# copied_list.reverse()
-# if copied_list == original_list:
-#     print('yup! its palindrome')
-# else:
-#     print('oops! try a diiferent pattern')
+user_input = input('enter the list items separated with space:')
+if " " not in user_input:
+    print('please separate them with space(eg.1 2 1 3 2)')
+else:
+    original_list = user_input.split()   
+copied_list = original_list.copy()
+copied_list.reverse()
+if copied_list == original_list:
+    print('yup! its palindrome')
+else:
+    print('oops! try a diiferent pattern')
 
 
 # 10.WAP to count the number of students with the “A” grade in the following tuple.
