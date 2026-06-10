@@ -1,15 +1,15 @@
 # 1.Write a Program to input 2 numbers & print their sum.
-num1=float(input('Enter 1st number:'))
-num2=float(input('Enter 2nd number:'))
-sum = num1+num2
-print(f'the sum of {num1} and {num2} is {sum}')
+# num1=float(input('Enter 1st number:'))
+# num2=float(input('Enter 2nd number:'))
+# sum = num1+num2
+# print(f'the sum of {num1} and {num2} is {sum}')
 
 
 #2.WAP to input 2 int numbers, a and b.
 #Print True if a is greater than or equal to b. If not print False.
-# a=float(input('Enter 1st number:'))
-# b=float(input('Enter 2nd number:'))
-# print(a>b)
+a=float(input('Enter 1st number:'))
+b=float(input('Enter 2nd number:'))
+print(a>b)
 
 
 #3.WAP to input user’s first name & print its length.
