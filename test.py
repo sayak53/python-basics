@@ -7,15 +7,15 @@
 
 #2.WAP to input 2 int numbers, a and b.
 #Print True if a is greater than or equal to b. If not print False.
-a=float(input('Enter 1st number:'))
-b=float(input('Enter 2nd number:'))
-print(a>b)
+# a=float(input('Enter 1st number:'))
+# b=float(input('Enter 2nd number:'))
+# print(a>b)
 
 
 #3.WAP to input user’s first name & print its length.
-# str=input('Enter your first name:')
-# length=len(str)
-# print(f'the length of {str} is {length}')
+str=input('Enter your first name:')
+length=len(str)
+print(f'the length of {str} is {length}')
 
 
 #4.WAP to find the occurrence of ‘$’ in a String.
