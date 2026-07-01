@@ -13,14 +13,14 @@
 
 
 #3.WAP to input user’s first name & print its length.
-str=input('Enter your first name:')
-length=len(str)
-print(f'the length of {str} is {length}')
+# str=input('Enter your first name:')
+# length=len(str)
+# print(f'the length of {str} is {length}')
 
 
-#4.WAP to find the occurrence of ‘$’ in a String.
-# str='f$hbdgh$dbkk$dghjkdhgk$gjkhgkjh$jhdgkjsh$'
-# print(str.count('$'))
+4.WAP to find the occurrence of ‘$’ in a String.
+str='f$hbdgh$dbkk$dghjkdhgk$gjkhgkjh$jhdgkjsh$'
+print(str.count('$'))
 
 
 #5.WAP to check if a number entered by the user is odd or even.
