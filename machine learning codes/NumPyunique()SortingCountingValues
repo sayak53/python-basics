@@ -1,0 +1,30 @@
+import numpy as np
+
+# Creating an array of marks
+marks = np.array([65, 78, 65, 91, 78, 82, 65, 91, 74, 82])
+
+print("Original Array:")
+print(marks)
+
+# Sorting the array
+sorted_marks = np.sort(marks)
+
+print("\nSorted Array:")
+print(sorted_marks)
+
+# Finding unique values
+unique_marks = np.unique(marks)
+
+print("\nUnique Marks:")
+print(unique_marks)
+
+# Finding unique values and their frequencies
+values, counts = np.unique(marks, return_counts=True)
+
+print("\nUnique Values and Their Counts:")
+
+for value, count in zip(values, counts):
+    print(value, ":", count)
+
+# Number of different/unique values
+print("\nNumber of Unique Values:", len(unique_marks))
